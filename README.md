@@ -13,9 +13,9 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Features | Login, Create, Read, Update, Delete, Validation, Print, & Export |
-| Framework | Bootstrap 4, CodeIgniter 4 |
-| Tools | Visual Studio Code, XAMPP (PHP Version 7.4), Composer, Git |
+| Features | • Login<br>• Create<br>• Read<br>• Update<br>• Delete<br>• Validation<br>• Print<br>• Export |
+| Framework | • Bootstrap 4<br>• CodeIgniter 4<br>• Font-Awesome |
+| Tools | • Visual Studio Code<br>• Xampp<br>• Composer<br>• Git |
 
 <br><br>
 

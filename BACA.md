@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Website-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# SEMNAS-Web-Management
+# Website SEMNAS Management
 <strong>Tugas Pemrograman Framework: Studi Kasus SEMNAS</strong><br>
 Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ```. Data-data yang ada di dalamnya tidak benar adanya / ``` fiktif ```.
 
